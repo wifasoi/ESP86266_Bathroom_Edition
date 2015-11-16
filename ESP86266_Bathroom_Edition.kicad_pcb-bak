@@ -3,7 +3,7 @@
   (general
     (links 53)
     (no_connects 1)
-    (area 97.714999 71.044999 132.790001 123.900001)
+    (area 95.021667 60.729999 135.815 131.090001)
     (thickness 1.6)
     (drawings 4)
     (tracks 248)
@@ -86,9 +86,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory Exports/PCB/))
   )
 
   (net 0 "")
